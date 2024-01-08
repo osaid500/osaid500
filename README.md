@@ -14,7 +14,7 @@ I'm Osaid, a passionate developer interested in web technologies. Welcome to my 
 ## 🚀 Projects
 
 ### Kewfilm Movie Browser
-[![Darul-Bushra](https://i.ibb.co/DM4mT5D/Screenshot-from-2024-01-08-20-45-31.png)](https://kewfilm.netlify.app/)
+[![Darul-Bushra](https://i.ibb.co/df3FL3t/kewfilm.png)](https://kewfilm.netlify.app/)
 
 A website for exploring collections of Hadiths.
 
